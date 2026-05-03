@@ -1,0 +1,2 @@
+Americano: 4000
+Latte: 4500
