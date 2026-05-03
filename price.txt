@@ -1,2 +1,3 @@
 Americano: 4000
 Latte: 4500
+Mango Smoothie: 5500
